@@ -1,0 +1,46 @@
+[
+	{
+         "alphabet_position" : 1,
+         "identifier" : "MAI_EK",
+         "name" : "mai ek",
+         "character" : "่",
+         "name_spelling" : "",
+         "frequency" : "common",
+         "frequency_comment": "",
+         "type" : "tone mark",
+         "unicode_position" : "0E48"
+	},
+	{
+         "alphabet_position" : 2,
+         "identifier" : "MAI_THO",
+         "name" : "mai tho",
+         "character" : "้",
+         "name_spelling" : "",
+         "frequency" : "common",
+         "frequency_comment": "",
+         "type" : "tone mark",
+         "unicode_position" : "0E49"
+	},
+	{
+         "alphabet_position" : 3,
+         "identifier" : "MAI_TRI",
+         "name" : "mai tri",
+         "character" : "๊",
+         "name_spelling" : "",
+         "frequency" : "common",
+         "frequency_comment": "",
+         "type" : "tone mark",
+         "unicode_position" : "0E4A"
+	},
+	{
+         "alphabet_position" : 4,
+         "identifier" : "MAI_CHATTAWA",
+         "name" : "mai chattawa",
+         "character" : "๋",
+         "name_spelling" : "",
+         "frequency" : "common",
+         "frequency_comment": "",
+         "type" : "tone mark",
+         "unicode_position" : "0E4B"
+	}
+]
