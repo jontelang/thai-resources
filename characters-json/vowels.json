@@ -11,28 +11,28 @@
 		"name" : "sara a",
 		"name_spelling" : "สระอะ",
 		"character" : "◌ะ",
-		"usage_comment" : "Also used as a shortener when combined with other vowels. Example: โก/goo (long) becomes โกะ/go (short).",
 		"sound_length" : "short", 
 		"sound_length_classification" : "short", 
 		"sound_amount" : "single", 
 		"pronounciation" : "u in 'nut'",
 		"type" : "vowel",
 		"unicode_hex" : "0E30",
-		"unicode_order" : "1"
+		"unicode_order" : "1",
+		"usage_comment" : "Also used as a shortener when combined with other vowels. Example: โก/goo (long) becomes โกะ/go (short)."
 	},
 	{
 		"identifier" : "MAI_HAN_AKAT",
 		"name" : "mai han akat",
 		"name_spelling" : "ไม้หันอากาศ",
 		"character" : "ั",
-		"usage_comment" : "This is the same as 'sara a' just in a different form. Example: 'sara a' becomes 'mai han akat' when it is placed between two consonants like กัน.",
 		"sound_length" : "short", 
 		"sound_length_classification" : "short", 
 		"sound_amount" : "single", 
 		"pronounciation" : "u in 'nut'",
 		"type" : "vowel",
 		"unicode_hex" : "0E31",
-		"unicode_order" : "2"
+		"unicode_order" : "2",
+		"usage_comment" : "This is the same as 'sara a' just in a different form. Example: 'sara a' becomes 'mai han akat' when it is placed between two consonants like กัน."
 	},
 	{
 		"identifier" : "SARA_AA",
@@ -140,7 +140,7 @@
 	},
 	{
 		"identifier" : "SARA_AEH",
-		"name" : "aeh",
+		"name" : "sara aeh",
 		"name_spelling" : "สระเอ",
 		"character" : "เ◌",
 		"sound_length" : "long", 
